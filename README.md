@@ -54,3 +54,95 @@ You will get these quality survives from me:
 [![APKPure](https://img.shields.io/badge/Follow-Me-1df26e?style=plastic&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADoAAAA6CAIAAABu2d1%2FAAAAIGNIUk0AAHomAACAhAAA%2BgAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAGYktHRAD%2FAP8A%2F6C9p5MAAAAHdElNRQfkCBgKEwX4zvdOAAAAc3RFWHRSYXcgcHJvZmlsZSB0eXBlIGlwdGMACmlwdGMKICAgICAgMzgKMzg0MjQ5NGQwNDA0MDAwMDAwMDAwMDE5MWMwMjY3MDAxNDRlNGM0ODRkNjI3OTU4MzI3ODc4MzE0ZTQ2NjczMzc1Njk1NDc4CjYzMDAKaV2uSwAACKlJREFUaN7tmt9vHNUVx7%2Fn3JnZ32uv7bXjOIE4IU1CIG3BSSARxQmBlqRFpWor9aEkr5X6WvWl%2F0H%2FhrZQFVooqSpIRKUi1FZFheAQk1%2BEHwlNcGyvf8Xr%2FT0z954%2BjO049qy99poCElf3YaVZzXzuZ%2B8958y9SyKCL0%2FjzxvgK9wvTrPW60aC5dYAgb5AuLIykGA9iNcH19O%2Bqz2iekAUtRy1Hn6bxQ2k%2FeLDV84UPk0oxywOi0Jked7Ur7cd3p%2Fdb8QwNbVamsI1Ikz09vT1U7euRNiaNrVFXyAYQ7G0d%2BnvU6P7s%2Fvr62%2B0NRcZCAB%2BO3IGQJQth9SdnW124qZ0T7R4oXzx3PQZAhkxnw%2BuEWHQQP7GP6evJlXEFyOQhR0QX1QrbkTsmhY6NXYSQJOCm7BLAPC7kXdc0RwGYcC2KXWoYU0c5%2FiF4tn38gNNCl4jbqD23MzQG7c%2BTqmoXkJAEAOrDZ%2FG7JoRJkAgp8ZeblLwWu0SADw78k5V%2FFC1ArZNucMaFrYIYmBinDhfOHth5lwzgteCG6i9UBh%2B%2FdZHaRUJVathZfBpzKoamX0EETT0qVxTgtc%2Bd58bGSgbLzSOCtgy5Q51M1A7N0gT58Rg4cylmcE1C141bhBr3y%2BO%2Fm3qg1QdtYbsjNyM21WRO%2B5PRBq6mRCxRrvPjgyUjKtCUxQp4%2Bfb1Q2whTvrnkDwuZm3LxfOr03w6nANhIk%2BLI29NnUlVC0DZeMfjvd0RyNu2HsKEfnin84Fgj9juwHAcyMDM7q2VC0BPiRJ%2FKttP96b7q%2FqkiK1eMBi4ipxduatK4WLBF6t4FXgGogiulqeOD35frha4qJ2n2rdtSGV7G8%2FluIWX%2Fw6gr25GPyZ2Q3U%2Fn5kYFpXrFC1Yto4%2Bkz3XgB3p7ccSPVXTInrCc6%2F9WHx8moFN4orEEX038rUqxOXUypiwtQWdO1YZue2dKcvGsDR7NMJShnRYYLZldqp3MnZga47blDI%2FmHk7JRftkgtWkSB2laOPNPdB4DBBuault6HUo%2BWwwXrhEoOzLz5UfFK8OX1xBWIIh6qTv914mLSCldb1LVjmR3b011B9CBBIDiORD3BNVM7PfbyKtw2iDuvdtwr2UvUAtBi0uz8tLsvGFxAY2C2tGzbn%2FpWPcFxlTiTf%2FNq8QMGS2OCV8YN1I5U83%2BZuJAKU6uI87r6ROv2neluT7RAtBgtJhjkd7LfdxANFcykaqZ6euwkgAa3klbGDZ76%2FOi7ObfohM1aT3SnSvys5yAABVY02y1SBuae1q891nKkYkq85FmB4Lfz%2F%2F6k9HGDM3iFd7VAba5WODl%2BPhleIZBr9O54ehTT1wtTi4iMSERFI84uG68LhWxFKFJlXTw9dvLnvb9sxO4KuEZEEf1x9N1ht9Bux%2F0luAYSJX61cOalS%2F%2BoE5MExj6kkltUyQVTyGV02RtnP60U1JbDDdROuMU%2Fj59PKkcvqQEEYpE16U1UVI1VDKFFAqAZl73EZlNZlMMI5Bq3y%2B7%2BdudTaKxGW27uBrP2xdzgUC0fYWvpb0kgbfQ4JmEpEWMgS7uGEEmO7SE3apNZeAsmrprykfZjaafFiG5kY6oubqD2lld%2BMTeYqKNWkZr2b1VVlcDLLW0BFC77CW1uT4ZAbafdfST7XQC0JKsveKluADdQ%2B1Ju8HptOlpf7QQmodTye9oCEMkoOzcXCA7UPtZ2tMVpDVVLoLl%2Bu1l1HiCKOO9V%2FpQbjNeftVP%2BZMWqgmysuAUfCPYSm0wFBAK54mbtDY%2FXUeuLHnLHABiYBMe67Lbl7AZqXx5771p1qp5aY%2FSETIJ5ZdYgC5CMsHPTizlkCFzV5cNtT7ZG2ubVyu0ZbyxSBVO6Vrt53R2dvxqOK4AiLvrVF3Ln4so2dWZtXufLqoIl2bVeoznBIuzB67C6nsh%2Bb6FaAvFsZwDbI3clVLRdpTvtDOY2ZEMmgxGjiE%2BOnb9amczY8dDUwIIp3GLLZjCo4cMYwihHJ7xUQg33Z3%2BYibQb0fPlxCe14Zq485OYQQVd3hrfFAgKxw3UVrT3Qu5cNEwtIEzW9erNAufIt%2F3VHBwRIFD%2FKlefTmeCWCsgAxExitSwN%2F5m8b04xwSGwVXjPpL6RtZqnWcNwQ3UvjJ%2B8Up5PDSNASTGHOvYZcfvq48qWFq1zFZqVHUrP0j1tkc6DGT2hY8UgH2J3UPuWEGXFClXvI1O9oH4Tty5L78YN7i2OdIaY2tpQFBEM9rtT275za6fSBPnDWVTvVS5ZpGaX8QiEmHHIXvSz8c4SkT3xbZapAyEl8FlIoEcyPQ%2B0tL7xvTVtBVZCC2AEpzo3guCZ%2Fw1bYULEzPo%2BcnXcv6UTfaCsCM2WSLSbrXeG%2BvdEd0CgO90EhYZBABOdO9dtIgYVNTuw8nNj7RtE8BhyyJefVeARDnyZOtBBY5zJEpO0GMUYbBFVquVvC%2B2zaGQABqCy0QCHMxsPZC%2Bu6jd2xuMBBKc2NAHpmaOZoM4tT%2Bxe6OTrRoXc%2FkWoKpx9yV23xvt3RrpQdhp0nJp4nj33vkUEKh9KLnpUMeOYEhrxgVgYByyD6X6XPECJgJ86LRKHG050J%2Fqi3GkzlDDmiIS4HD79n2pzaVAMAEix7v6wKSbPvUOBD%2BcvL%2FH6QyIibhqageTezJW2iar3jJeocQ53t1nRBS4pN19iU1HOnYEg2kSd4HgB13xmMgX3apSj6YexLI%2FXV3cgOnx9h3fTG4sGZcExzf0QXHzau8UvKfHznqia8Y9kNzTZqUNzDIRcrlIpMUw8YkNe6f9Sl%2Bi54mOneuldl5whOxD6b6yqWasVH%2FqQax0WLscbpByjmZ33R%2Fr%2BlF2D62f2oWCDya%2FnlGpB%2BI7V1QLgFaqrIVAg%2Fmh3lhbixNfR9aF9%2F9P8cJdTleP07mwPFgL7txNgXU5MK8Pjcb%2BRNDoHtlnhjrfGrLRVH76%2F7cv2Z9bvsL9Cne%2B%2FQ%2BMSHRsbOJsfgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wOC0yNFQxMDoxOTowNS0wNDowMK6n6aYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDgtMjRUMTA6MTk6MDUtMDQ6MDDf%2BlEaAAAAAElFTkSuQmCC)](https://apkpure.com/u/12361316)
 
 [![Copyright](https://img.shields.io/badge/MIT%20License-Copyright%20(c)%202020%20Shafiun%20Miraz-202020)](https://github.com/shafiunmiraz0/shafiunmiraz0.github.io/blob/master/LICENSE)
+
+
+
+
+
+
+
+
+
+### Hi there, I'm Alieu Jagne - aka [aljagne][website] 👋
+
+<a href="https://codesandbox.io/u/aljagne">
+  <img align="left" alt="Alieu Jagne | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/aljagne">
+  <img align="left" alt="Alieu Jagne | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://dev.to/aljagne">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Alieu Jagne's DEV Profile" height="30" width="30">
+</a>
+<a href="https://discord.gg/DarkLio#2879">
+  <img align="left" alt="Alieu Jagne" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+<br />
+<br />
+
+## I'm a Enthusiastic, Self-Motivated, Entrepreneur, Developer, and Fitness Freak!
+
+- 🔭 I’m currently working on a [eCommerce Project 🛒][website], and studing at the same time!
+- 🌱 I’m currently learning everything 😂
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Finish My eCommerce Project & Contribute to some Open Source projects
+- 🎭 Fun fact: I love Fitness🏋️‍♂️ / Swimming🏊‍♂️ / Hiking🧗‍♂️ / playing Football⚽ / and Discovery🌍
+
+### Connect with me:
+
+[<img align="left" alt="aljagne.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="aljagne | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="aljagne | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="aljagne | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aljagne | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Create An Amazing GitHub Profile README](https://dev.to/aljagne/how-to-create-an-amazing-github-profile-readme-529c)
+- [Moroccan Vegetarian Tagine Card](https://dev.to/aljagne/moroccan-vegetarian-tagine-card-520i)
+- [Discover Morocco](https://dev.to/aljagne/discover-morocco-1odl)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="aljagne's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aljagne&show_icons=true&hide_border=true" />
+
+
+[website]: https://aljagne.com
+[twitter]: https://twitter.com/aljagne
+[youtube]: https://youtube.com/aljagne
+[instagram]: https://instagram.com/aljagne
+[linkedin]: https://www.linkedin.com/in/aljagne/
+
+<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+
