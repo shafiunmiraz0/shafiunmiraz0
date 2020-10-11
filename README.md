@@ -53,4 +53,3 @@ You will get these quality survives from me:
 [![Linkdin](https://img.shields.io/badge/Connect-Me-1DA1F2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/shafiunmiraz0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bne4yOxyDRcShqSgYrVLHjQ%3D%3D)
 
 
-[![Copyright](https://img.shields.io/badge/MIT%20License-Copyright%20(c)%202020%20Shafiun%20Miraz-202020)](https://github.com/shafiunmiraz0/shafiunmiraz0/blob/master/LICENSE)
