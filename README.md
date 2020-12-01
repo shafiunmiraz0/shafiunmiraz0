@@ -1,22 +1,8 @@
 ### Welcome To My Github Profile
 
-<!--
-**shafiunmiraz0/shafiunmiraz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ..
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
-- 😄 Pronouns: ..
-- ⚡ Fun fact: ...
--->
 # About shafiunmiraz0 🍊 🍔 🔑 ⚡ 🛰️
 
-Mobile App Developer a Bitcoin lover, and a Big Fan of Open Source. Develop Mobile Apps for Huawei and Android Mobiles, and view Open Source Codes. Loved to write articles about Bitcoin.
+Bitcoin lover and a Big Fan of Open Source. Work for Privacy, View Open Source Codes, and Contribute to It. Read and Write About Bitcoin and Cryptography.
 
 ## My Projects
 [![Health & Fitness](https://img.shields.io/badge/Mobile%20App-Health%20%26%20Fitness-green)]()
