@@ -21,4 +21,3 @@ Bitcoin lover and a Big Fan of Open Source. Work for Privacy, View Open Source C
 [![Medium](https://img.shields.io/badge/Follow-Me-14161A?style=plastic&logo=medium)](https://medium.com/@shafiunmiraz0)
 [![Linkdin](https://img.shields.io/badge/Connect-Me-1DA1F2?style=plastic&logo=linkedin)](https://www.linkedin.com/in/shafiunmiraz0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bne4yOxyDRcShqSgYrVLHjQ%3D%3D)
 
-
