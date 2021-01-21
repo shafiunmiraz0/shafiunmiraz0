@@ -6,8 +6,6 @@ Bitcoin lover and a Big Fan of Open Source. Work for Privacy, View Open Source C
 
 ### Get In Touch
 
-
-
 [![Twitter@shafiunmiraz0](https://img.shields.io/badge/Follow-Me-1DA1F2?style=plastic&logo=twitter)](https://twitter.com/shafiunmiraz0)
 [![Upwork](https://img.shields.io/badge/Hire-Me-6FDA44&?style=plastic&logo=upwork)](https://www.upwork.com/o/profiles/users/~01403a10ba0dff5635/)
 [![Medium](https://img.shields.io/badge/Follow-Me-14161A?style=plastic&logo=medium)](https://medium.com/@shafiunmiraz0)
