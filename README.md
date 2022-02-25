@@ -1,8 +1,8 @@
 ### Welcome To My Github Profile
 
-# shafiunmiraz0 🍊 🍔 🔑 ⚡ 🛰️ 
+# shafiunmiraz0🍊🥩🔑⚡🧅🛰️🌋
 
-Bitcoin lover and a Big Fan of Open Source. Work for Privacy, View Open Source Codes, and Contribute to It. Read and Write About Bitcoin, Privacy, and Cryptography.
+#Bitcoin Lover and a Big Fan of #FOSS. Work for #Bitcoin, and #Privacy; View, and Contribute to FOSS. Read and Write about #Bitcoin, Privacy, and #Cryptography.
 
 ### Get In Touch
 
