@@ -1,6 +1,6 @@
 ### Welcome To My Github Profile
 
-# shafiunmiraz0🍊🥩🔑⚡🧅🛰️🌋
+# Shafiun Miraz
 
 Restoring the Privacy of Every Person in Cyberspace Through Cryptographic Techniques. #Bitcoin Lover and a Big Fan of #FOSS. Work for #Bitcoin, and #Privacy; View, and Contribute to FOSS. Read and Write about #Bitcoin, Privacy, and #Cryptography. 
 
