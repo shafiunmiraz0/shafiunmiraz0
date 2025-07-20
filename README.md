@@ -2,7 +2,7 @@
 
 # Shafiun Miraz
 
-DevOps Engineer | PhD Researcher at RUET | Passionate about Bitcoin, Privacy & Cryptography | FOSS Contributor & Advocate 
+DevOps Engineer | PhD Researcher at RUET | Passionate about Privacy & Cryptography | FOSS Contributor & Advocate 
 
 ### Get In Touch
 
