@@ -2,7 +2,7 @@
 
 # Shafiun Miraz
 
-Restoring the Privacy of Every Person in Cyberspace Through Cryptographic Techniques. #Bitcoin Lover and a Big Fan of #FOSS. Work for #Bitcoin, and #Privacy; View, and Contribute to FOSS. Read and Write about #Bitcoin, Privacy, and #Cryptography. 
+DevOps Engineer | PhD Researcher at RUET | Passionate about Bitcoin, Privacy & Cryptography | FOSS Contributor & Advocate 
 
 ### Get In Touch
 
